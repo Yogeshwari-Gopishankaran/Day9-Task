@@ -1,0 +1,14 @@
+#alignment{
+    text-align: center;
+    margin-top: 300px;
+    color:white;
+    font-size:xx-large;
+    border: 2px groove gray;
+    width:500px;
+    box-shadow: 1px 1px 5px white;
+    margin-left: 532px;
+    
+}
+.background{
+    background-color: cadetblue;
+}
