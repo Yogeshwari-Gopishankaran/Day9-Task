@@ -20,19 +20,6 @@
 //     console.log("values are",+e);
 // })
 
-// setTimeout(()=>{
-//     element.innerHTML = "";
-//     element.innerHTML = "9";
-//     setTimeout(()=>{
-//         element.innerHTML = "";
-//         element.innerHTML = "8";
-//     setTimeout(()=>{
-//         element.innerHTML = "";
-//         element.innerHTML = "7";
-        
-//         },1000)
-//     },1000)
-// },1000)
 
 let element = document.createElement("h1");
 element.setAttribute("id","alignment");
@@ -72,8 +59,6 @@ setTimeout(()=>{
                             
                                         element.innerHTML = "Happy Independence Day";
 
-
-                    
                                     },1000);
                                  },1000);
        

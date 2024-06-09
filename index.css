@@ -1,14 +1,14 @@
 #alignment{
     text-align: center;
     margin-top: 300px;
-    color:white;
+    color:#700202ed;
     font-size:xx-large;
-    border: 2px groove gray;
+    border: 2px groove #2be2c5;
     width:500px;
-    box-shadow: 1px 1px 5px white;
-    margin-left: 532px;
+    box-shadow: 2px 2px 10px rgb(24, 207, 100);
+    margin-left: 500px;
     
 }
 .background{
-    background-color: cadetblue;
+    background-image: linear-gradient(to left, rgb(3 157 250 / 44%), rgb(0 255 102 / 55%));
 }
