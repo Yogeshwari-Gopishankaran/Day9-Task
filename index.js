@@ -1,26 +1,3 @@
-// function add(a,b,c,result) {
-//     console.log("The values are"+a+" "+b);
-//     result(a+b*c);
-// }
-// function result(value) {
-// console.log(value);
-// }
-
-// add(10,2,5,result)
-
-// let arr=[12,2,3,4,5];
-
-// function forechNew(arr,display){
-// for(let i=0;i<arr.length;i++){
-//    display(arr[i]);
-// }
-// }
-
-// forechNew(arr,(e)=>{
-//     console.log("values are",+e);
-// })
-
-
 let element = document.createElement("h1");
 element.setAttribute("id","alignment");
 
